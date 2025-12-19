@@ -1,7 +1,3 @@
-Here is a concise README you can use:
-
-***
-
 # Hybrid Network Topology in Scilab
 
 This repository contains a Scilab implementation of a hybrid computer network topology combining **star**, **ring**, and **bus** structures with a total of **25 nodes**. The code was developed as part of a Computer Networks laboratory assignment.
