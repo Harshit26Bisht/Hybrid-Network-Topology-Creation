@@ -66,7 +66,6 @@ end
 // ---------- PART 3: PLOT TOPOLOGY WITH COLORS ----------------
 scf(1);
 clf();
-hold on;
 
 // --- Draw edges with different colors ---
 // Star edges (1–2..10): BLUE
@@ -127,7 +126,6 @@ xlabel("X");
 ylabel("Y");
 axis("equal");
 grid("on");
-hold off;
 
 // ---------- PART 4: DEGREE + MAX DEGREE ----------------------
 degrees = sum(adj, 2);
